@@ -1,4 +1,4 @@
-package main
+ckage main
 
 import(
   "fmt"
@@ -43,3 +43,4 @@ log.Fatal(s.ListenAndServe())
 http.HandleFunc("/",index)
 http.HandleFunc("/something",something)
 */
+
